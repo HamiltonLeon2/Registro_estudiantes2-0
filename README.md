@@ -21,4 +21,4 @@ Este proyecto es la actualización y optimizacion de mi proyecto anterior "Siste
 public/img/cintillo.png
 
 ## DISCLAIMER
-* ** Este proyecto es un proyecto personal basado en un proyecto anterior "Sistema de registro de postulados" (https://github.com/HamiltonLeon2/registro_estudiante), el cual estoy utilizando para aprender tecnologias nuevas mientras lo voy desarrollando
+* ** Este proyecto es un proyecto personal basado en un proyecto anterior [Sistema de registro de postulados](https://github.com/HamiltonLeon2/registro_estudiante), el cual estoy utilizando para aprender tecnologias nuevas mientras lo voy desarrollando
