@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Nunito;
+    src: url(C:\xampp\htdocs\newsigpe\public\fonts\nunito\Nunito.ttf);
+}
+@font-face {
+    font-family: Rubik;
+    src: url(\fonts\rubik\Rubik.ttf);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
